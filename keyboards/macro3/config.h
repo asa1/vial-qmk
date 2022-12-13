@@ -8,7 +8,7 @@
 
 /* key matrix size */
 #define MATRIX_ROWS 2
-#define MATRIX_COLS 4
+#define MATRIX_COLS 3
 
 /* key matrix pins */
 #define DIRECT_PINS {   \
